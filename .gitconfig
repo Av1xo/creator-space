@@ -1,0 +1,2 @@
+[alias]
+    sync = "!git push --all origin && git push --tags origin"
